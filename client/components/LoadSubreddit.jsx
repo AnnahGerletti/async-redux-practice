@@ -32,3 +32,5 @@ class LoadSubreddit extends React.Component {
 }
 
 export default connect()(LoadSubreddit)
+
+//this is a stateful react Component
